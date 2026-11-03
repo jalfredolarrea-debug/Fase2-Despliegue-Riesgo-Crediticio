@@ -92,8 +92,11 @@ estadístico NO-GO de la Actividad 6.
 
 ## Documentación adicional
 
-Los manuales de despliegue y el informe de validación
-se incorporarán en la carpeta docs/.
+- [Manual de despliegue - PDF](docs/Fase2_Manual_Despliegue.pdf)
+- [Manual de despliegue - Word](docs/Fase2_Manual_Despliegue.docx)
+- [Informe de validación - PDF](docs/Fase2_Informe_Validacion.pdf)
+- [Informe de validación - Word](docs/Fase2_Informe_Validacion.docx)
+- [Arquitectura técnica](docs/ARQUITECTURA.md)
 
 ## Origen de los datos
 
