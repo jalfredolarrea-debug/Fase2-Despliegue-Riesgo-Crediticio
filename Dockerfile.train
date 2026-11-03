@@ -1,0 +1,9 @@
+FROM python:3.11-slim
+WORKDIR /app
+COPY requirements-train.txt .
+RUN pip install --no-cache-dir -r requirements-train.txt
+COPY src/train_model.py src/train_model.py
+COPY data data
+COPY evidence evidence
+RUN mkdir -p artifacts
+CMD ["python", "src/train_model.py"]

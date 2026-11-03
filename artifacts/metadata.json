@@ -1,0 +1,39 @@
+{
+  "modelo": "Random Forest",
+  "version": "fase2-academica-1",
+  "umbral": 0.28,
+  "variables": [
+    "status",
+    "duration",
+    "credit_history",
+    "purpose",
+    "amount",
+    "savings",
+    "employment_duration",
+    "installment_rate",
+    "personal_status_sex",
+    "other_debtors",
+    "present_residence",
+    "property",
+    "age",
+    "other_installment_plans",
+    "housing",
+    "number_credits",
+    "job",
+    "people_liable",
+    "telephone",
+    "foreign_worker"
+  ],
+  "registros_entrenamiento": 800,
+  "registros_prueba": 200,
+  "scikit_learn": "1.6.1",
+  "matriz_confusion": {
+    "TN": 79,
+    "FP": 61,
+    "FN": 13,
+    "TP": 47
+  },
+  "roc_auc": 0.7588095238095237,
+  "dictamen": "NO-GO para uso bancario real",
+  "uso": "Demostracion academica exclusivamente"
+}

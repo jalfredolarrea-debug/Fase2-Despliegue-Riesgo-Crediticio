@@ -1,0 +1,210 @@
+[
+  {
+    "nombre": "status",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 4
+  },
+  {
+    "nombre": "duration",
+    "tipo": "numerica",
+    "minimo": 4,
+    "maximo": 72,
+    "predeterminado": 18
+  },
+  {
+    "nombre": "credit_history",
+    "tipo": "categorica",
+    "opciones": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 2
+  },
+  {
+    "nombre": "purpose",
+    "tipo": "categorica",
+    "opciones": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "predeterminado": 3
+  },
+  {
+    "nombre": "amount",
+    "tipo": "numerica",
+    "minimo": 250,
+    "maximo": 18424,
+    "predeterminado": 2320
+  },
+  {
+    "nombre": "savings",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "predeterminado": 1
+  },
+  {
+    "nombre": "employment_duration",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "predeterminado": 3
+  },
+  {
+    "nombre": "installment_rate",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 4
+  },
+  {
+    "nombre": "personal_status_sex",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 3
+  },
+  {
+    "nombre": "other_debtors",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3
+    ],
+    "predeterminado": 1
+  },
+  {
+    "nombre": "present_residence",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 4
+  },
+  {
+    "nombre": "property",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 3
+  },
+  {
+    "nombre": "age",
+    "tipo": "numerica",
+    "minimo": 19,
+    "maximo": 75,
+    "predeterminado": 33
+  },
+  {
+    "nombre": "other_installment_plans",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3
+    ],
+    "predeterminado": 3
+  },
+  {
+    "nombre": "housing",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3
+    ],
+    "predeterminado": 2
+  },
+  {
+    "nombre": "number_credits",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 1
+  },
+  {
+    "nombre": "job",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "predeterminado": 3
+  },
+  {
+    "nombre": "people_liable",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2
+    ],
+    "predeterminado": 2
+  },
+  {
+    "nombre": "telephone",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2
+    ],
+    "predeterminado": 1
+  },
+  {
+    "nombre": "foreign_worker",
+    "tipo": "categorica",
+    "opciones": [
+      1,
+      2
+    ],
+    "predeterminado": 2
+  }
+]

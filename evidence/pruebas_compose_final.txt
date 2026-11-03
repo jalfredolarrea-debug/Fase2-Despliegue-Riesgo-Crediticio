@@ -1,0 +1,10 @@
+=== ETAPA 3.1 | PRUEBAS AUTOMATIZADAS ===
+PASS | Disponibilidad de la API
+PASS | Esquema de 20 variables
+PASS | 200 predicciones historicas reproducidas
+PASS | Variable faltante: HTTP 422
+PASS | Variable adicional: HTTP 422
+PASS | Valor negativo: HTTP 422
+PASS | Tipo de dato incorrecto: HTTP 422
+PASS | Categoria fuera de dominio rechazada
+=== PRUEBAS PRELIMINARES FINALIZADAS ===
