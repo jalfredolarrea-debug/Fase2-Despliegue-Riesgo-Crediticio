@@ -1,0 +1,10 @@
+FASE 2 - EVIDENCIAS VISUALES
+
+01. Reconstruccion del modelo y comparacion historica (ROC-AUC, matriz y guardado).
+02. Interfaz Streamlit y resultado de inferencia consumiendo FastAPI.
+03. Arranque de Docker Compose desde clon nuevo (healthy) y 200 predicciones reproducidas.
+04. Hallazgo de validacion de categoria fuera de dominio (estado inicial).
+05. Reprueba automatizada de errores de entrada tras aplicar correccion.
+06. Vista del repositorio publico en GitHub.
+
+Las imagenes documentan pruebas ejecutadas en GitHub Codespaces, entorno remoto. No demuestran ejecucion fisica en la laptop. No acreditan uso productivo bancario; el modelo permanece NO-GO.
